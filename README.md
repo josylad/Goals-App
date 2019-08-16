@@ -1,6 +1,6 @@
 # Goals
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.0.
+This project is a Simple Goals/Task App which allows you to create a list of goals or tasks that needs to be done by a specific date.
 
 ## Development server
 
